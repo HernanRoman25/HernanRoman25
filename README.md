@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy Hernán Román!
-![Banner](https://github.com/HernanRoman25/HernanRoman25/blob/4dde106ae4197a7a2f511e2c790b2f28f04401a7/imagenes/banner%20hernan.png)
+![Banner](https://github.com/HernanRoman25/HernanRoman25/blob/4966ca52b177a9ce3378acfa0cef806292b96880/banner%20hernan.png)
 
 ### 💻 Data Analyst | Soporte Técnico | Jefe de Impuestos
 
