@@ -68,7 +68,7 @@ Data Analyst con más de 7 años de experiencia en Soporte Técnico y Contabilid
 
 ## 📈 Proyectos Destacados
 
-### **Optimización Integral de Inventarios y Gestión de Costos para ComerLogistics**
+### **[Optimización Integral de Inventarios y Gestión de Costos para ComerLogistics](https://github.com/HernanRoman25/ComerLogistics.git)**
 - Implementación de técnicas avanzadas de análisis de datos para mejorar la eficiencia operativa.
 - Desarrollar ingeniería de datos, datawarehouse y machine learning para realizar predicciones.
 - Herramientas: Python, Power BI, Excel, SQL Server.
